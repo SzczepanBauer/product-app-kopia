@@ -42,14 +42,6 @@ public class ProductApi {
     public void deleteProduct(@RequestParam Long index ){
         products.deleteById(index);
     }
-
-
-
-
-
-
-
-
 }
 
 

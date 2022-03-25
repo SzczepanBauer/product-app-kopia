@@ -47,13 +47,4 @@ public class ProductManager {
         save(new Product(4L,"Product4",
                 "Description4",4,4,Status.IN_STOCK));
     }
-
-
-
-
-
-
-
-
-
 }
